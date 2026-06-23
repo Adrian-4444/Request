@@ -5,3 +5,4 @@ Adding Text to the GITHUB README file
 sub changes 1
 sub changes 2
 new request
+Adding New things 
